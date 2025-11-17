@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio! This is where I share my projects, coursework, a
 ---
 
 ## 🚀 About Me
-- 🎓 Student at [Integral University]
+- 🎓 Student at Integral University.
 - 🌱 Currently learning Python and Machine Learning
 - 💻 Interested in Embedded Systems and Applied Machine Learning
 - 📫 GitHub Profile: [https://github.com/alfayezahmad](https://github.com/alfayezahmad)
