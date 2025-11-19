@@ -12,16 +12,25 @@ Welcome to my GitHub portfolio! This is where I share my projects, coursework, a
 
 ---
 
-## 📂 Projects
-- 🧑‍🎓 **Python Programming Lab Report**  
-  Repository containing my lab report for the Python Programming course.  
-  [View Repo](https://github.com/alfayezahmad/python-programming-lab)
+## 🛠️ Skills
+- **Languages:** Python 🐍, Java ☕, C
+- **Tools:** Git, GitHub, Arduino IDE, STM32
+- **Frameworks/Libraries:** TensorFlow, scikit-learn
+- **Other:** Embedded Systems, Machine Learning basics
 
-- 🧠 **Machine Learning Project** *(hosted on Kaggle)*  
-  Notebook exploring ML techniques and results. Repo coming soon.
+---
+
+## 📂 Projects
+- 🧑‍🎓 **Java [ISC]**  
+  Exercises covering entirety of syllabus, loops, functions, OOP, and data structures.  
+  [View Repo](https://github.com/alfayezahmad/Java)
+
+- 🧠 **Machine Learning Project: Lucknow AQI Prediction**  
+  Kaggle notebook exploring air quality prediction using ML techniques.  
+  [View on Kaggle](https://www.kaggle.com/code/alfayezahmad/lucknow-aqi-prediction-using-machine-learning)
 
 - 🚁 **Quadcopter from Scratch** *(Arduino IDE + STM32)*  
-  Built a quadcopter with custom hardware and firmware. Documentation to be added.
+  Built a quadcopter with custom hardware and firmware from scratch. Documentation to be added.
 
 ---
 
@@ -33,18 +42,3 @@ Welcome to my GitHub portfolio! This is where I share my projects, coursework, a
 ---
 
 ✨ Thanks for visiting my profile! More projects will be added soon.
-
-<!--
-**alfayezahmad/alfayezahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
