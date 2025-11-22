@@ -28,6 +28,7 @@ Welcome to my GitHub portfolio! This is where I share my projects, coursework, a
 - 🧠 **Machine Learning Project: Lucknow AQI Prediction**  
   Kaggle notebook exploring air quality prediction using ML techniques.  
   [View on Kaggle](https://www.kaggle.com/code/alfayezahmad/lucknow-aqi-prediction-using-machine-learning)
+  [View Repo](https://github.com/alfayezahmad/ideal-sniffle)
 
 - 🚁 **Quadcopter from Scratch** *(Arduino IDE + STM32)*  
   Built a quadcopter with custom hardware and firmware from scratch. Documentation to be added.
