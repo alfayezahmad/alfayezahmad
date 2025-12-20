@@ -21,12 +21,12 @@ A real-time Network Intrusion Detection System optimized for high-performance in
 - **Performance:** Achieved sub-millisecond classification times using asynchronous sniffing and localized virtual environments.
 [View Repository](https://github.com/alfayezahmad/Sentinela-AI-NIDS)
 
-#### 🌍 PM2.5 Air Quality Forecasting
+#### 🌍 Ideal-Sniffle (PM2.5 Air Quality Forecasting For Lucknow)
 **Stack:** Scikit-Learn, Pandas, Time-Series Analysis
 A predictive model forecasting pollutant levels in Lucknow, India, to provide data-driven public health recommendations.
-- **Methodology:** Engineered lag and rolling features to capture temporal patterns in regional air quality monitoring data.
+- **Methodology:** Engineered lag and rolling features to capture temporal patterns in real regional air quality monitoring data collected by CPCB (Central Pollution Control Board).
 - **Impact:** Built a classification pipeline to categorize AQI levels and automate safety protocols.
-[View Repository](https://github.com/alfayezahmad/Lucknow-PM2.5-Forecast)
+[View Repository](https://github.com/alfayezahmad/ideal-sniffle)
 
 ---
 
