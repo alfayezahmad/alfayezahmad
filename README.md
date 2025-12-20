@@ -61,4 +61,4 @@ Engineered a functional quadcopter from the ground up, focusing on PID control l
 ---
 
 ### 📫 Connect
-[LinkedIn](www.linkedin.com/in/alfayez-ahmad-b4b51b215) | [Email](mailto:alfayezahmad.aa@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alfayez-ahmad-b4b51b215) | [Email](mailto:alfayezahmad.aa@gmail.com)
