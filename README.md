@@ -12,7 +12,7 @@
 Developed a hybrid vision pipeline to track object "topology changes" (fragmentation) where standard foundation models fail.
 - **Innovation:** Engineered a "Multi-Centroid Initialization" strategy and Morphological Erosion logic to maintain Parent ID persistence during object fracture.
 - **Implementation:** Integrated an SQL telemetry backend for automated incident logging and audit trails.
-[View Repository](https://github.com/alfayezahmad/Warehouse-Perception)
+[View Repository](https://github.com/alfayezahmad/warehouse-vision-sam2)
 
 #### 🛡️ Sentinela: AI-Powered NIDS
 **Stack:** Scapy, Scikit-Learn (Random Forest), macOS ARM64 (M4 Pro)
