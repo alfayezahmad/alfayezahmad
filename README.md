@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
+### Featured Engineering Projects
 
 ####  Autonomous Warehouse Perception System
 **Stack:** Meta SAM 2, OpenCV, SQLite, Python
@@ -30,7 +30,7 @@ A predictive model forecasting pollutant levels in Lucknow, India, to provide da
 
 ---
 
-### 🛰️ Hardware & Robotics (Legacy & Roadmap)
+### Hardware & Robotics (Legacy & Roadmap)
 
 **Autonomous Quadcopter Platform (STM32)**
 *Core: STM32F103C8T6 (Cortex-M3) | C/C++ | Embedded Systems*
@@ -40,7 +40,7 @@ Engineered a functional quadcopter from the ground up, focusing on PID control l
 
 ---
 
-### 🛠️ Technical Toolkit
+### Technical Toolkit
 
 | Category | Technologies |
 | :--- | :--- |
@@ -51,7 +51,7 @@ Engineered a functional quadcopter from the ground up, focusing on PID control l
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alfayezahmad&show_icons=true&theme=tokyonight&hide_border=true&title_color=3382ed&icon_color=3382ed" height="160" />
@@ -61,4 +61,4 @@ Engineered a functional quadcopter from the ground up, focusing on PID control l
 ---
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/alfayez-ahmad-b4b51b215) | [Email](mailto:alfayezahmad.aa@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alfayezahmad) | [Email](mailto:alfayezahmad.aa@gmail.com)
