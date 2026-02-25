@@ -48,14 +48,5 @@ A predictive machine learning engine forecasting daily PM2.5 levels.
 
 ---
 
-### GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfayezahmad&show_icons=true&theme=tokyonight&hide_border=true&title_color=3382ed&icon_color=3382ed" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfayezahmad&layout=compact&theme=tokyonight&hide_border=true&title_color=3382ed" height="160" />
-</p>
-
----
-
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/alfayezahmad) | [Email](mailto:alfayezahmad.aa@gmail.com)
