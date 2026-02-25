@@ -1,53 +1,50 @@
 # Alfayez Ahmad 👋
 
 **CS Undergraduate (9.57 CGPA) | Applied Computer Vision, Network Security & Robotics**
-Building low-level systems and bridging them with machine learning. 
+Building low-level systems, bridging them with machine learning, and containerizing them for edge deployment. 
 
 ---
 
 ### Featured Engineering Projects
 
 #### [Autonomous Warehouse Perception System](https://github.com/alfayezahmad/warehouse-vision-sam2)
-**Stack:** Python, Meta SAM 2, OpenCV, SQLite
-A hybrid computer vision pipeline integrating SAM 2 and OpenCV to handle foundation model failures.
-- Built a logic layer using Morphological Erosion and connected components analysis to track distinct "islands" and maintain ID persistence when objects fragment in segmentation masks.
-- Integrated an SQL telemetry backend for automated incident logging.
+**Stack:** Python, Meta SAM 2, OpenCV, SQLite, Docker
+A containerized, hybrid computer vision pipeline integrating SAM 2 and OpenCV to handle foundation model failures.
+- Built a deterministic logic layer to track distinct "islands" and maintain ID persistence when objects fragment in segmentation masks.
+- Integrated an SQL telemetry backend for automated incident logging, engineered for edge-node deployment and observability.
 
 #### [Sentinela: ML Network Intrusion Detection](https://github.com/alfayezahmad/Sentinela-AI-NIDS)
-**Stack:** Python, Scapy, Scikit-Learn (Random Forest)
+**Stack:** Python, Scapy, Scikit-Learn (Random Forest), Docker
 A custom packet-sniffing engine built to categorize network traffic anomalies in real-time.
 - Bridges low-level packet ingestion in promiscuous mode with a Random Forest classifier to identify normal vs. attack traffic.
-- Leverages asynchronous sniffing for high-performance inference on macOS ARM64.
+- Deployed as an isolated Docker container leveraging Linux host-networking (`NET_RAW`, `NET_ADMIN`) capabilities.
+
+#### [Quadcopter-Sim-V1: Autonomous Flight Pipeline](https://github.com/alfayezahmad/Quadcopter-Sim-V1)
+**Stack:** Python, Control Theory (PID/Kalman), Docker
+A 1D Digital Twin and Software-in-the-Loop (SITL) flight engine.
+- Implements a recursive Bayesian filter (Kalman) for state estimation and a custom Domain-Specific Language (DSL) parser for mission logic.
+- Containerized for headless execution to support parallelized Monte Carlo testing of flight control algorithms.
 
 #### [Ideal-Sniffle: PM2.5 Air Quality Forecasting](https://github.com/alfayezahmad/ideal-sniffle)
 **Stack:** Python, Scikit-Learn, Pandas, Time-Series Analysis
-A predictive machine learning engine forecasting daily PM2.5 levels in Lucknow, India.
+A predictive machine learning engine forecasting daily PM2.5 levels.
 - Engineered lag and rolling features to capture temporal patterns from Central Pollution Control Board (CPCB) data.
 - Automates classification of AQI levels to provide data-driven public health advisories.
-
----
-
-### Hardware & Robotics
-
-#### Autonomous ROS 2 Warehouse Simulation & Quadcopter Flight Control
-**Stack:** Python, ROS 2, C/C++
-Focusing on sensor fusion, state estimation, and autonomous navigation.
-- Developed an autonomous warehouse robot simulation using ROS 2 on macOS.
-- Built a 1D quadcopter flight simulator in Python, implementing a Kalman Filter for state estimation and a custom PID controller, with ongoing work to translate these control loops to bare-metal C/C++ for an STM32 (Cortex-M3) embedded platform.
 
 ---
 
 ### Technical Toolkit & R&D
 
 **Core Technologies**
-* **Languages:** Python (Scikit-Learn, Scapy, Pandas), C/C++, Java, SQL, Bash
-* **Vision & AI:** Meta SAM 2, OpenCV, Random Forest, Feature Engineering
-* **Systems & DevOps:** macOS ARM64, Linux/Unix, ROS 2, Git, SQLite
+* **Languages:** Python, C/C++, Java, SQL, Bash
+* **Vision & AI:** Meta SAM 2, OpenCV, Random Forest, Scikit-Learn
+* **Cloud-Native & DevOps:** Docker, Linux/Unix internals, Git, SQLite
+* **Robotics & Control:** ROS 2, Kalman Filters, PID, Bare-Metal C (STM32)
 
 **Current Engineering Focus & R&D:**
-* **Cloud-Native & Distributed Systems:** Architecting robust CI/CD pipelines and exploring containerized architectures for scalable machine learning deployments.
-* **Embedded Control & Robotics:** Porting software-in-the-loop flight algorithms (Kalman Filters, PID) to bare-metal C for STM32 microcontrollers.
-* **Systems Architecture & Security:** Deep-diving into OS internals, memory-optimized C data structures, and expanding real-time network packet inspection techniques.
+* **Cloud-Native & Distributed Systems:** Transitioning standalone ML and robotics containers into distributed Kubernetes workloads (DaemonSets, Jobs) for scalable observability and Monte Carlo testing.
+* **Embedded Control:** Porting software-in-the-loop flight algorithms to bare-metal C for STM32 (Cortex-M3) microcontrollers.
+* **Systems Architecture & Security:** Deep-diving into OS internals, memory-optimized C data structures, and expanding real-time network packet inspection techniques via eBPF.
 
 ---
 
