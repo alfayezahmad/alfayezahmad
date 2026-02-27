@@ -49,4 +49,5 @@ A predictive machine learning engine forecasting daily PM2.5 levels.
 ---
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/alfayezahmad) | [Email](mailto:alfayezahmad.aa@gmail.com)
+**Reach out & Connect:**
+[Email](mailto:your.email@example.com) ｜ [LinkedIn](https://linkedin.com/in/your-linkedin-profile) ｜ [Kaggle](https://www.kaggle.com/alfayezahmad)
