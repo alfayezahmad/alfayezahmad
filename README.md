@@ -1,6 +1,6 @@
 # Alfayez Ahmad 👋
 
-**CS Undergraduate (9.57 CGPA) | Applied Computer Vision, Network Security & Robotics**
+**CS Undergraduate (9.55 CGPA) | Applied Computer Vision, Network Security & Robotics**
 Building low-level systems, bridging them with machine learning, and containerizing them for edge deployment. 
 
 ---
