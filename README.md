@@ -1,11 +1,17 @@
-# Alfayez Ahmad 👋
+# Alfayez Ahmad
 
-**CS Undergraduate (9.55 CGPA) | Applied Computer Vision, Network Security & Robotics**
+**CS Undergraduate, Integral University (9.55 CGPA) | Applied Computer Vision, Network Security & Robotics**
 Building low-level systems, bridging them with machine learning, and containerizing them for edge deployment. 
 
 ---
 
 ### Featured Engineering Projects
+
+#### [Ideal-Sniffle: PM2.5 Air Quality Forecasting](https://github.com/alfayezahmad/ideal-sniffle)
+**Stack:** Python, Scikit-Learn, Pandas, Time-Series Analysis
+A predictive machine learning engine forecasting daily PM2.5 levels.
+- Engineered lag and rolling features to capture temporal patterns from Central Pollution Control Board (CPCB) data.
+- Automates classification of AQI levels to provide data-driven public health advisories.
 
 #### [Autonomous Warehouse Perception System](https://github.com/alfayezahmad/warehouse-vision-sam2)
 **Stack:** Python, Meta SAM 2, OpenCV, SQLite, Docker
@@ -22,14 +28,14 @@ A custom packet-sniffing engine built to categorize network traffic anomalies in
 #### [Quadcopter-Sim-V1: Autonomous Flight Pipeline](https://github.com/alfayezahmad/Quadcopter-Sim-V1)
 **Stack:** Python, Control Theory (PID/Kalman), Docker
 A 1D Digital Twin and Software-in-the-Loop (SITL) flight engine.
-- Implements a recursive Bayesian filter (Kalman) for state estimation and a custom Domain-Specific Language (DSL) parser for mission logic.
+- Stemming from my first foundational hardware drone build in 2022, this implements a recursive Bayesian filter (Kalman) for state estimation and a custom Domain-Specific Language (DSL) parser for mission logic.
 - Containerized for headless execution to support parallelized Monte Carlo testing of flight control algorithms.
 
-#### [Ideal-Sniffle: PM2.5 Air Quality Forecasting](https://github.com/alfayezahmad/ideal-sniffle)
-**Stack:** Python, Scikit-Learn, Pandas, Time-Series Analysis
-A predictive machine learning engine forecasting daily PM2.5 levels.
-- Engineered lag and rolling features to capture temporal patterns from Central Pollution Control Board (CPCB) data.
-- Automates classification of AQI levels to provide data-driven public health advisories.
+---
+
+### Publications & Research
+
+* **IEEE IMPACT 2026:** Presented research on Reinforcement Learning for Variable Speed Limit systems (Accepted for IEEE Xplore).
 
 ---
 
@@ -50,4 +56,4 @@ A predictive machine learning engine forecasting daily PM2.5 levels.
 
 ### Connect
 **Reach out & Connect:**
-[Email](mailto:your.email@example.com) ｜ [LinkedIn](https://linkedin.com/in/your-linkedin-profile) ｜ [Kaggle](https://www.kaggle.com/alfayezahmad)
+[Email](mailto:alfayezahmad.aa@gmail.com) ｜ [LinkedIn](https://www.linkedin.com/in/alfayezahmad) ｜ [Kaggle](https://www.kaggle.com/alfayezahmad)
