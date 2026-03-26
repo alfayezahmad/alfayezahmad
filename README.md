@@ -1,6 +1,6 @@
 # Alfayez Ahmad
 
-**CS Undergraduate, Integral University (9.55 CGPA) | Applied Computer Vision, Network Security & Robotics**
+**CS Undergraduate, Integral University (9.55/10 CGPA) | Applied Computer Vision, Network Security & Robotics**
 Building low-level systems, bridging them with machine learning, and containerizing them for edge deployment. 
 
 ---
