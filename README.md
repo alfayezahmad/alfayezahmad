@@ -7,6 +7,12 @@ Building low-level systems, bridging them with machine learning, and containeriz
 
 ### Featured Engineering Projects
 
+#### [Global Graph PoC: Spherical Weather Mesh](https://github.com/alfayezahmad/neural-lam-global-graph-poc)
+**Stack:** Python, PyTorch Geometric (PyG), SciPy (cKDTree)
+A proof-of-concept pipeline built for my Google Summer of Code (GSoC) 2026 proposal to transition the `neural-lam` weather model to global forecasting.
+- Constructs a boundary-free 3D spherical mesh using a Fibonacci lattice to eliminate the polar distortion inherent in standard latitude/longitude grids.
+- Implements spatial edge routing via `cKDTree` and packages the topology into PyG `Data` objects for seamless integration with the existing ARModel message-passing layers.
+
 #### [Ideal-Sniffle: PM2.5 Air Quality Forecasting](https://github.com/alfayezahmad/ideal-sniffle)
 **Stack:** Python, Scikit-Learn, Pandas, Time-Series Analysis
 A predictive machine learning engine forecasting daily PM2.5 levels.
